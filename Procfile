@@ -1,0 +1,1 @@
+web: gunicorn hostel_management_system_in_django.wsgi
